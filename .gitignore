@@ -1,0 +1,21 @@
+# Secretos y credenciales
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos
+.venv/
+venv/
+env/
+
+# Base de datos / datos locales
+*.sqlite
+*.sqlite3
+
+# VSCode y otros editores
+.vscode/
+.idea/
